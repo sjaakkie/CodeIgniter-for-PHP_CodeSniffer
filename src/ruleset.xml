@@ -7,11 +7,11 @@
       <!--<property name="applicationRoot" value="/application/"/>
     </properties>
   </rule>-->
-  <rule ref="Generic.Files.LineEndings">
+  <!--<rule ref="Generic.Files.LineEndings">
     <properties>
       <property name="eolChar" value="\r\n"/>
     </properties>
-  </rule>
+  </rule>-->
 
   <!-- PHP files should OMIT the closing PHP tag -->
   <rule ref="Zend.Files.ClosingTag"/>
