@@ -51,7 +51,8 @@ class PHP_CodeSniffer_Standards_CodeIgniter_CodeIgniterCodingStandard extends PH
             'Generic/Sniffs/NamingConventions/UpperCaseConstantNameSniff.php',
             'Generic/Sniffs/PHP/UpperCaseConstantSniff.php',
             'Generic/Sniffs/Formatting/DisallowMultipleStatementsSniff.php',
-
+			'Squiz/Sniffs/Operators/ValidLogicalOperatorsSniff.php'
+			
             // @todo Code should be commented prolifically. DocBlock style comments preceding class and method declarations
             // @todo reuse ? 'PEAR/Sniffs/Commenting/ClassCommentSniff.php',
             // @todo reuse ? 'Squiz/Sniffs/Commenting/ClassCommentSniff.php',
